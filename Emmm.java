@@ -6,7 +6,7 @@ public class Emmm {
 	public static Integer ii = new Integer(i);dddd
 	public static Integer ii = new Integer(i);dddd
 	public static Integer ii = new Integer(i);dddd
-	public static Integer ii = new Int
+	public static Integer ii = new Integer(i);dddd
 	
 
 }
