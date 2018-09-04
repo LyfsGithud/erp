@@ -27,16 +27,8 @@ public class User {
 	public void setUserName(String userName) {
 		this.userName = userName;
 	}
-	
-	public User(String userName, String password, String email) {
-		super();
-		this.userName = userName;
-		this.password = password;
-		this.email = email;
-	}
-	public User(String userName, String password, String email) {
-		super();
-		this.userName = userName;
+	ddfdfsafsdafsafasfasfsaf
+	publicrName = userName;
 		this.password = password;
 		this.email = email;
 	}
