@@ -18,5 +18,10 @@ public class productBiz {
 			total = pro.getPrice() * count[i];
 		}
 		System.out.println("总价：" + total);
+		System.out.println("总价：" + total);
+		System.out.println("总价：" + total);
+		System.out.println("总价：" + total);
+		System.out.println("总价：" + total);
+		System.out.println("总价：" + total);
 	}
 }

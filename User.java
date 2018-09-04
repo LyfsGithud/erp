@@ -27,11 +27,22 @@ public class User {
 	public void setUserName(String userName) {
 		this.userName = userName;
 	}
+<<<<<<< HEAD
+	
+	public User(String userName, String password, String email) {
+		super();
+		this.userName = userName;
+		this.password = password;
+		this.email = email;
+	}
+
+=======
 	ddfdfsafsdafsafasfasfsaf
 	publicrName = userName;
 		this.password = password;
 		this.email = email;
 	}
+>>>>>>> dev
 			Scanner input = new Scanner(System.in);
 		System.out.println("程序开始:");
 		User user = new User();
