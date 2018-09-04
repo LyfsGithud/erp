@@ -40,5 +40,12 @@ public class User {
 		this.password = password;
 		this.email = email;
 	}
+			Scanner input = new Scanner(System.in);
+		System.out.println("程序开始:");
+		User user = new User();
+		SetUserName(user);
+		SetPassword(user);
+		SetEmail(user);
+		System.out.println("注册完成");
 	
 }
